@@ -16,7 +16,7 @@ journal:
 
 ---------
 
-# The Open Journal of <OJ>
+# The Open Journal of `<OJ>`
 
 Welcome to the Open Journal of `<OJ>`. The list of accepted papers is 
 [available here](./articles.md). For finding more about how to submit 
