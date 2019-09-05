@@ -1,7 +1,7 @@
 # User Guide
 
 This guide describes how to manage and review submissions for an 
-OpenJournal. We make use of `OJ` as a placeholder for the name of the 
+Open Journal. We make use of `OJ` as a placeholder for the name of the 
 journal.
 
 ## For Authors
@@ -10,10 +10,23 @@ journal.
 
 To create a new submission:
 
- 1. Go to the GitHub project page of the OJ you want to submit to.
+ 1. Go to the GitHub project page of the OJ you want to submit to. The 
+    URL will look something like:
 
- 2. Click on the `articles.md` file and add a new entry to the table. 
-    A new entry has the following format:
+    ```
+    https://github.com/<ORG>/<OJ>
+    ```
+
+    where `<ORG>` is the name of the organization and `<OJ>` the 
+    Github project name of the journal.
+
+ 2. Click on the `articles.md` file, and then click on the `Edit` 
+    button:
+    
+    The above will open an editing window where you can modify the 
+    `articles.md` file. In order to add a new submission to the table 
+    of accepted articles, add a new entry to the exsiting table. A new 
+    entry has the following format:
 
     ```
     <Title> | <Authors> | <URL> |
@@ -24,9 +37,15 @@ To create a new submission:
     that the `|` symbols separate each field and its important to 
     include them.
 
- 3. After accomplishing the above, you will see a new page containing 
-    a form for creating a pull request (PR) like the following:
+ 3. After accomplishing the above, go the bottom of the page, where 
+    you will find a form with a `Propose change` button:
 
+    ![]()
+
+    you will see a new page containing a form for creating a pull 
+    request (PR) like the following:
+
+    ![]()
 
     Click on the `Create Pull Request` button to create a new 
     submission.
@@ -36,10 +55,10 @@ To create a new submission:
 There are two options to add manuscript files such as `.docx` files to 
 a submission.
 
-  * Attach a file to the submission (see [help 
-    here](https://help.github.com/en/articles/adding-a-file-to-a-repository))
+  * Attaching a file to the submission (see [help 
+    here](https://help.github.com/en/articles/adding-a-file-to-a-repository)).
 
-  * Add the manuscript as part of your submission
+  * Adding the manuscript as part of your submission. After creating
 
 ### Respond to Comments from Reviewers
 
@@ -56,12 +75,11 @@ more][gh-pr])
 
 ### Add Review (On GitHub)
 
-TBD
+**TBD**
 
 ### Add Review (On [`hypothes.is`](https://hypothes.is))
 
-TBD
-
+**TBD**
 
 ## For Editors
 

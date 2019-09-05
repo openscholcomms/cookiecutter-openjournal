@@ -4,7 +4,10 @@ _Budget or technical expertise should not limit the spread of knowledge_
 
 If you identify with this problem statement, this project is for you:
 
-> As someone who wants to create an open journal with minimal technical overhead, I would like to have a publishing patform that is free, easy to setup, and easy to use, so I can help reseaerchers publish their work as smoothly and quickly as possible.
+> As someone who wants to create an open journal with minimal 
+> technical overhead, I would like to have a publishing platform that 
+> is free, easy to setup, and easy to use, so I can help researchers 
+> publish their work as smoothly and quickly as possible.
 
 This project provides template for you to create such a journal in no 
 time. It uses GitHub to give you the key features you need, but hides
@@ -32,3 +35,4 @@ review articles, please visit the [documentation page](./guide.md).
 
 For any inquiries, please ask by creating a new issue (click on the 
 `Issues` tab above).
+
