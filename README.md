@@ -19,8 +19,8 @@ journal:
 # The Open Journal of `<OJ>`
 
 Welcome to the Open Journal of `<OJ>`. The list of accepted papers is 
-[available here](./articles.md). For finding more about how to submit 
-or review articles, please visit the [documentation page](./guide.md).
+[available here](./articles.md). For more about how to submit or 
+review articles, please visit the [documentation page](./guide.md).
 
 For any inquiries, please ask by creating a new issue (click on the 
 `Issues` tab above).
