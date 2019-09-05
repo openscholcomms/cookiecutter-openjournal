@@ -31,7 +31,9 @@ To create a new submission:
     Click on the `Create Pull Request` button to create a new 
     submission.
 
-#### [Attaching Files to Your Submission](https://help.github.com/en/articles/adding-a-file-to-a-repository)
+#### Attaching Files to Your Submission
+
+TBD
 
 #### Adding the manuscript as part of your submission
 
@@ -71,8 +73,9 @@ To create a new journal:
 
 ### Assign Reviewers
 
-TBD
+As submission is handled via a pull request, the editor assign reviewers using github assignments as described [here](https://help.github.com/en/articles/assigning-issues-and-pull-requests-to-other-github-users).
+
 
 ### Approve Submission
 
-TBD
+Once the paper is approved, the editor merges the pull request to add the paper to the journal record as described [here](https://help.github.com/en/articles/merging-a-pull-request) using the "squash and merge" option. 
