@@ -31,13 +31,15 @@ To create a new submission:
     Click on the `Create Pull Request` button to create a new 
     submission.
 
-#### Attaching Files to Your Submission
+#### Adding Files to Your Submission
 
-TBD
+There are two options to add manuscript files such as `.docx` files to 
+a submission.
 
-#### Adding the manuscript as part of your submission
+  * Attach a file to the submission (see [help 
+    here](https://help.github.com/en/articles/adding-a-file-to-a-repository))
 
-TBD
+  * Add the manuscript as part of your submission
 
 ### Respond to Comments from Reviewers
 
