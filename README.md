@@ -1,3 +1,7 @@
+If you identify with this statement, this project is for you:
+
+> As someone who wants to create a free, transparent journal with minimal technical overhead, I would like to have a publishing patform that is free, easy to setup and easy to use, and flexible, so I can help reseaerchers publish their work as much and quickly as possible.
+
 # Open Journal Template
 
 This is a template for Github-hosted open journals. To create a new 
