@@ -55,12 +55,10 @@ To create a new submission:
     Click on the `Create Pull Request` button to create a new 
     submission.
 
-#### Adding Files to Your Submission
+To attach files (e.g. a `.docx` document) to the submission [see 
+here][gh-attach].
 
-Attaching a file to the submission (see [help here][gh-addfile]). This 
-allows you to attach files such as `.docx` files.
-
-[gh-addfile]: https://help.github.com/en/articles/adding-a-file-to-a-repository)).
+[gh-attach]: https://help.github.com/en/articles/file-attachments-on-issues-and-pull-requests
 
 ### Respond to Comments from Reviewers
 
