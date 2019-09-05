@@ -53,10 +53,14 @@ To create a new submission:
     ![](https://user-images.githubusercontent.com/473117/64357694-0d666280-cffd-11e9-8aea-d8441fb44026.png)
 
     Click on the `Create Pull Request` button to create a new 
-    submission.
+    submission. This will open another page where you will finally 
+    create a new PR:
 
-To attach files (e.g. a `.docx` document) to the submission [see 
-here][gh-attach].
+    ![](https://user-images.githubusercontent.com/473117/64366521-4eb33e00-d00e-11e9-8025-fc372cb7737b.png)
+
+To attach files (e.g. a `.docx` document) to the submission you can 
+drag and drop them to the PR comment box ([see here for 
+more][gh-attach]).
 
 [gh-attach]: https://help.github.com/en/articles/file-attachments-on-issues-and-pull-requests
 
