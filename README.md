@@ -1,4 +1,4 @@
-# Open Journal Template: Frictionless journal setup
+# Open Journal Template: Frictionless Journal Setup
 
 _Budget or technical expertise should not limit the spread of knowledge_
 
