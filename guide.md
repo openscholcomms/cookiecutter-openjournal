@@ -65,7 +65,11 @@ TBD
 
 ### Journal Setup
 
-TBD
+To create a new journal:
+
+ 1. Click "Use this template" on the main page of the repository
+ 2. From the template cloned in you repository, edit the "Readme.md" file to create the main page of your journal. 
+ 3. You are done! Your journal will be hosted at (<youraccount>.github.io/<your_journal_name>)
 
 ### Assign Reviewers
 
